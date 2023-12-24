@@ -1,0 +1,19 @@
+{
+  "name": "group-chat-application",
+  "version": "1.0.0",
+  "description": "a shapener tech project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "GROUP CHAT APPLICATION"
+  },
+  "author": "JATIN DIXIT",
+  "license": "ISC",
+  "dependencies": {
+    "node-localstorage": "^3.0.5",
+    "nodemon": "^3.0.2"
+  }
+}
